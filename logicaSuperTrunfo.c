@@ -14,7 +14,7 @@ typedef struct {
 } Carta;
 
 int main() {
-    Carta c1, c2;s
+    Carta c1, c2;
 
     printf("=== Cadastro da Carta 1 ===\n");
     printf("Estado: ");
